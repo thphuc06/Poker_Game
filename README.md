@@ -9,5 +9,6 @@ This project was completed during my first-year first semester.
 
 Video Instruction: https://drive.google.com/file/d/1M1lUgcYxd9Af2pzraQPh4Xyf0WGRHiv_/view?usp=sharing
 
+You can find more information in the report, including installation instructions, code explanations, and logic flow.
 
 Report: https://drive.google.com/file/d/1v1Xvu26t4HRTMrwJHruc-dA9oF-DaapP/view?usp=sharing
